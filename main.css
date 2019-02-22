@@ -14,6 +14,7 @@ font-family: "Coiny", cursive;
 }
 
 h1 {
+  font-family: 'Coiny', cursive;
   margin-right: 20px;
   font-weight: bolder;
 }
@@ -28,6 +29,7 @@ h1 {
 }
 
 p, h1 {
+  font-family: 'Coiny', cursive;
   margin-top: 45px;
   font-size: 75px;
   display: inline-block;
